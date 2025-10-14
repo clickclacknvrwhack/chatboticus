@@ -1,0 +1,130 @@
+YOUR COMPANY – LEAD QUALIFICATION KNOWLEDGE BASE
+
+COMPANY SNAPSHOT
+Name: Your Company Name
+Founder/Owner: Your Name
+Location: Your City, State
+Website: yourwebsite.com
+Specialization: Describe your niche (e.g., "Custom WordPress sites for professional services")
+Approach: What makes you different? (e.g., "End-to-end custom development, no templates")
+
+CORE SERVICES
+1. Primary Service
+   • Key offering 1
+   • Key offering 2
+   • Key offering 3
+
+2. Industry-Specific Solutions
+   For [Industry A]:
+   • Specific solution 1
+   • Specific solution 2
+   
+   For [Industry B]:
+   • Specific solution 1
+   • Specific solution 2
+
+3. Maintenance & Support
+   • What's included in ongoing support
+   • Response times
+   • Update frequency
+
+4. Additional Services
+   • Hosting
+   • Email setup
+   • Analytics
+   • SEO consulting
+
+IDEAL CLIENT PROFILE
+Business Types:
+   • Target industry 1 (e.g., "Professional services firms")
+   • Target industry 2
+   • Target industry 3
+
+Project Indicators:
+   • Current website needs (outdated, slow, etc.)
+   • Business goals (leads, showcase, e-commerce)
+   • Growth mindset
+
+Budget Range:
+   • Starter Package: $X,XXX
+   • Full Custom Build: $X,XXX - $XX,XXX
+   • Monthly Maintenance: $XXX - $XXX
+   • Hosting: $XX/month
+
+Typical Timeline: X-X months
+   • Discovery: X weeks
+   • Design: X weeks
+   • Development: X weeks
+   • Launch: X weeks
+
+QUICK QUALIFYING QUESTIONS
+1. What industry are you in?
+2. Do you have a current site? What's not working?
+3. What's your primary goal? (leads / showcase / e-commerce / information)
+4. Do you have a timeline in mind?
+5. What's your budget range?
+6. Who's involved in the decision-making process?
+
+RED FLAGS (politely redirect)
+   • "I just need something really quick and cheap"
+   • "Can you build it in a week?"
+   • DIY-ers looking for free consulting
+   • Unclear decision-making process
+
+Suggested redirect line:
+"It sounds like what you're looking for might be better served by [alternative]. I specialize in [your focus]."
+
+GREEN FLAGS (high intent)
+   • Has specific pain points with current site
+   • Budget is allocated or being allocated
+   • Realistic timeline (1-3 months)
+   • Decision-maker is present or accessible
+   • References examples or competitor sites
+   • Understands the value of professional work
+
+COMMON CLIENT QUESTIONS & ANSWERS
+
+Q: How much does a site cost?
+A: Most projects range from $X,XXX to $XX,XXX depending on scope and features. Once I understand your goals, I can provide a detailed quote.
+
+Q: Do you work remotely / outside your area?
+A: [Your answer - e.g., "Yes, I work with clients nationwide via video calls and screen sharing."]
+
+Q: Do you do [Service Relevant to Industry]?
+A: [Your answer - e.g., "yes/no, rationale and pitch"]
+
+Q: What's included in your [plan] plan?
+A: [Your answer - e.g., "all the things included in the plan a link to an article or video?"]
+
+Q: Can you work with our existing brand?
+A: [Your answer]
+
+Q: How involved do we need to be?
+A: [Your answer - describe your typical client collaboration process]
+
+WHY CLIENTS CHOOSE [YOUR COMPANY]
+   • Reason 1 (e.g., "Specialized expertise in [niche]")
+   • Reason 2 (e.g., "Direct access to the developer")
+   • Reason 3 (e.g., "Post-launch training and support")
+   • Reason 4 (e.g., "Focus on ROI and measurable results")
+
+PORTFOLIO TALKING POINTS
+   • Project 1: Brief result/outcome
+   • Project 2: Brief result/outcome
+   • Project 3: Brief result/outcome
+
+NEXT STEPS PROCESS
+1. Initial chat (this conversation)
+2. Discovery call with [Your Name] (30-45 minutes)
+3. Proposal and quote (2-3 business days)
+4. Kickoff → Design → Build → Launch
+
+TECHNICAL CAPABILITIES
+   	• technical cap One
+	• technical cap Two
+	• technical cap Three
+	• technical cap Four
+
+
+CLOSING LINE FOR QUALIFIED LEADS
+"This sounds like a great fit! Let's schedule a quick call to dive deeper into your goals and get you a proposal. What's your availability this week?"
